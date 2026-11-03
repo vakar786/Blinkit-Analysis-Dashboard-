@@ -8,7 +8,9 @@ The objective is to conduct a comprehensive analysis of Blinkit's sales performa
 - Average Sales: The average revenue per sale.
 - Number of items: The total count of different items sold.
 - Average Rating: The average customer rating for items sold.
-  ![Dashboard Screenshot](images.png)
+
+  <img width="1112" height="572" alt="image" src="https://github.com/user-attachments/assets/8d97052e-dcf8-4859-8805-ff1f1ef3b9fd" />
+
 ## Tools
 - Microsoft Excel - Data Cleaning, Data Analysis, Creating Reports
 ## Data Analysis
